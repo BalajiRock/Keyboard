@@ -2,8 +2,8 @@ import threading
 from pygame import mixer
 import time
 
-f = open("C:\\Users\\Balaji M\\Desktop\\PROJECTS\\KEYBOARD\\note.txt",'r')   
-file_path = "C:\\Users\\Balaji M\\Desktop\\PROJECTS\\KEYBOARD\\piano-keys\\Piano.ff."
+f = open("note.txt",'r')   
+file_path = "piano-keys\\Piano.ff."
 
 global content
 global length
